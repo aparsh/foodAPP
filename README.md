@@ -23,11 +23,11 @@ You will also see any lint errors in the console.
 
 
 <p>
-<img src="https://github.com/aparsh/foodAPP/blob/master/images/im1.jpeg" width="350" height="400" title="hover text">
-<img src="https://github.com/aparsh/foodAPP/blob/master/images/im2.jpeg" width="350" height="400" title="hover text">
-<img src="https://github.com/aparsh/foodAPP/blob/master/images/im3.jpeg" width="350" height="400" title="hover text">
-<img src="https://github.com/aparsh/foodAPP/blob/master/images/im4.jpeg" width="350" height="400" title="hover text">
-<img src="https://github.com/aparsh/foodAPP/blob/master/images/im5.jpeg" width="350" height="400" title="hover text">
+<img src="https://github.com/aparsh/foodAPP/blob/master/images/im1.jpeg" width="250" height="400" title="hover text">
+<img src="https://github.com/aparsh/foodAPP/blob/master/images/im2.jpeg" width="250" height="400" title="hover text">
+<img src="https://github.com/aparsh/foodAPP/blob/master/images/im3.jpeg" width="250" height="400" title="hover text">
+<img src="https://github.com/aparsh/foodAPP/blob/master/images/im4.jpeg" width="250" height="400" title="hover text">
+<img src="https://github.com/aparsh/foodAPP/blob/master/images/im5.jpeg" width="250" height="400" title="hover text">
 </p>                                                                                                                                    
                                                                                                                                     
 
